@@ -1,0 +1,5 @@
+# Ignorer le dossier /data et tout son contenu
+/data/
+
+# Ignorer tous les dossiers __pycache__ et leur contenu
+__pycache__/
